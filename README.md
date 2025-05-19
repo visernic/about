@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>Empowering Businesses with Scalable Digital Solutions</strong><br/>
+  <strong>Team of Creative Designers & Developers</strong><br/>
   Founded on <strong>December 1, 2024</strong> by <strong>MD Mostafa Niloy</strong>
 </p>
 
